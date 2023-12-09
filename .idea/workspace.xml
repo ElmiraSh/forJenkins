@@ -7,7 +7,6 @@
     <list default="true" id="f9fdabe5-dc06-45cb-9f65-78891eb83c22" name="Changes" comment="add code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TextBoxTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TextBoxTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,30 @@
       <recent name="C:\Users\elmir\IdeaProjects\forJenkins\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.TextBoxTests">
+  <component name="RunManager" selected="Gradle.SystemPropertiesTests.systemPropertiesTest">
+    <configuration name="SystemPropertiesTests.systemPropertiesTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;propertis.tests.SystemPropertiesTests.systemPropertiesTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="TextBoxTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -146,6 +168,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SystemPropertiesTests.systemPropertiesTest" />
         <item itemvalue="Gradle.TextBoxTests" />
         <item itemvalue="Gradle.forJenkins [allureServe]" />
       </list>
@@ -159,7 +182,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702119417476</updated>
-      <workItem from="1702119418856" duration="5801000" />
+      <workItem from="1702119418856" duration="8136000" />
     </task>
     <task id="LOCAL-00001" summary="add code">
       <created>1702136789037</created>
@@ -168,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702136789038</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add code">
+      <created>1702138707642</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702138707643</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
