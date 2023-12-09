@@ -16,6 +16,7 @@ import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.logevents.SelenideLogger.step;
 
+@Tag("demoqa")
 public class TextBoxTests {
     @BeforeAll
     static void beforeAll() {
@@ -25,7 +26,7 @@ public class TextBoxTests {
         //   Configuration.headless=true;
         // Configuration.holdBrowserOpen = true;
         SelenideLogger.addListener("AllureSelenide",new AllureSelenide());
-        Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
+        Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";//
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("selenoid:options", Map.<String, Object>of(
                 "enableVNC", true,
