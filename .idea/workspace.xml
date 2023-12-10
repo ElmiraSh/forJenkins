@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f9fdabe5-dc06-45cb-9f65-78891eb83c22" name="Changes" comment="add code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,10 +82,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/elmir/IdeaProjects/forJenkins",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -94,11 +95,15 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\elmir\IdeaProjects\forJenkins" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\elmir\IdeaProjects\forJenkins\notoficatios" />
       <recent name="C:\Users\elmir\IdeaProjects\forJenkins\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.SystemPropertiesTests.systemPropertiesTest">
+  <component name="RunManager" selected="Gradle.TextBoxTests">
     <configuration name="SystemPropertiesTests.systemPropertiesTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -145,6 +150,27 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="forJenkins [allureReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="allureReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="forJenkins [allureServe]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -168,9 +194,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.SystemPropertiesTests.systemPropertiesTest" />
         <item itemvalue="Gradle.TextBoxTests" />
+        <item itemvalue="Gradle.forJenkins [allureReport]" />
         <item itemvalue="Gradle.forJenkins [allureServe]" />
+        <item itemvalue="Gradle.SystemPropertiesTests.systemPropertiesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +209,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702119417476</updated>
-      <workItem from="1702119418856" duration="8136000" />
+      <workItem from="1702119418856" duration="14425000" />
     </task>
     <task id="LOCAL-00001" summary="add code">
       <created>1702136789037</created>
@@ -198,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702138707643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add code">
+      <created>1702142991941</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702142991942</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
