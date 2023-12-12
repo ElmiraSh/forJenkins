@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9fdabe5-dc06-45cb-9f65-78891eb83c22" name="Changes" comment="add code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TextBoxTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TextBoxTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="f9fdabe5-dc06-45cb-9f65-78891eb83c22" name="Changes" comment="add code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,9 +192,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.TextBoxTests" />
         <item itemvalue="Gradle.forJenkins [allureServe]" />
         <item itemvalue="Gradle.forJenkins [allureReport]" />
-        <item itemvalue="Gradle.TextBoxTests" />
         <item itemvalue="Gradle.SystemPropertiesTests.systemPropertiesTest" />
       </list>
     </recent_temporary>
@@ -211,7 +207,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702119417476</updated>
-      <workItem from="1702119418856" duration="16630000" />
+      <workItem from="1702119418856" duration="17016000" />
     </task>
     <task id="LOCAL-00001" summary="add code">
       <created>1702136789037</created>
@@ -241,7 +237,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702238873157</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add code">
+      <created>1702400755187</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702400755188</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add code">
+      <created>1702400845544</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702400845544</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,5 +260,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add code" />
     <option name="LAST_COMMIT_MESSAGE" value="add code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TextBoxTests.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
