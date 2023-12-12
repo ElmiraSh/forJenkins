@@ -105,7 +105,7 @@
       <recent name="C:\Users\elmir\IdeaProjects\forJenkins\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.forJenkins [allureServe]">
+  <component name="RunManager" selected="Gradle.TextBoxTests">
     <configuration name="SystemPropertiesTests.systemPropertiesTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
