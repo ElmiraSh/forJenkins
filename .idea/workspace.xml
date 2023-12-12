@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9fdabe5-dc06-45cb-9f65-78891eb83c22" name="Changes" comment="add code" />
+    <list default="true" id="f9fdabe5-dc06-45cb-9f65-78891eb83c22" name="Changes" comment="add code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TextBoxTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TextBoxTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/propertis/tests/SystemPropertiesTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/propertis/tests/SystemPropertiesTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,7 +211,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702119417476</updated>
-      <workItem from="1702119418856" duration="17016000" />
+      <workItem from="1702119418856" duration="17327000" />
     </task>
     <task id="LOCAL-00001" summary="add code">
       <created>1702136789037</created>
@@ -251,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702400845544</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add code">
+      <created>1702401361799</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702401361799</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,7 +277,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/TextBoxTests.java</url>
-          <line>59</line>
+          <line>53</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
